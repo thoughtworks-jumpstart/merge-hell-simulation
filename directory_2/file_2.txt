@@ -1,22 +1,7 @@
 <directory_2/file_2.txt title>
 
-There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
-You’re never going to feel like you’re ready to program full time. Imposter syndrome is real. Try to remember that it’s normal to not know everything. The most important thing is understanding that you can figure out the stuff that you don’t know.
+Letting problems pile up without checking is a poor strategy. I used to make endless changes to my code and expect it to work right away. The problem with this approach is that it stacks one problem on top of another, and it becomes difficult to figure what went wrong.
 
-Changing bad code is part of the process. I used to think that every piece of code I wrote needed to be perfect. But making improvements to your code is normal. You’re not writing a book that can’t be changed once it’s published.
-Learning to code isn’t easy. But that’s why it’s worth doing.
+Learning by yourself is really tough. Talking about code and collaborating with other aspiring developers is a better way to learn for most people.
 
-Meet-ups are incredibly valuable. In the beginning, it was pretty intimidating to get myself to the point where I felt comfortable attending these. But once I did, I realized that there were a ton of developers just like me.
-<<<<<<< HEAD
-You don’t need to be a math genius. If you’re not a “math person,” that doesn’t mean that you can’t be a programmer.
-=======
-<<<<<<< HEAD
-=======
-
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
->>>>>>> changed file 2 line 2
->>>>>>> changed file 2 line 2
+Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
