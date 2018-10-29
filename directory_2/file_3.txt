@@ -1,13 +1,7 @@
 <directory_2/file_3.txt title>
 
-An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
+You don’t need 5 monitors. Contrary to what Hollywood might tell you, you don’t need an insane external monitor setup to be a programmer. The computer that you own right now is probably good enough to use to start programming. Don’t waste your money.
 
+There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
 
-Make the computer think like a human. Too many people have the impression that you need to think like a computer. It’s actually the opposite.
-
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
-Learning to code isn’t easy. But that’s why it’s worth doing.
+Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
