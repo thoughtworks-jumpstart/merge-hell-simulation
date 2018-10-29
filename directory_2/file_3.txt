@@ -3,7 +3,10 @@
 An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
 
 
-An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
-Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
+Make the computer think like a human. Too many people have the impression that you need to think like a computer. It’s actually the opposite.
 
-There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit
+Doloremque architecto quaerat impedit iure debitis, 
+reprehenderit magnam magni mollitia vel nemo repellendus 
+voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
