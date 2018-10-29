@@ -12,4 +12,8 @@ An algorithm is like finding a name in a phonebook. Algorithms are a step-by-ste
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
 >>>>>>> let go
 
+<<<<<<< HEAD
 Programming is about using the right tool for the job. There are so many different open source libraries, tools, and frameworks at your disposal. So you need to grow your developer toolkit and understand which tool makes sense for each problem that they encounter.
+=======
+There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
+>>>>>>> big difference
