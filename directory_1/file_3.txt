@@ -1,9 +1,7 @@
 <directory_1/file_3.txt title>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+Programmers never stop learning. New technologies come out all the time, so the programmers that succeed are the ones who continue to learn and develop their craft on an ongoing basis.
+
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit
 Doloremque architecto quaerat impedit iure debitis, 
