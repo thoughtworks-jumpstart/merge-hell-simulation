@@ -7,6 +7,7 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 - Explain why you think it should be working differently.
 - When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
 
+Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
 
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
 
