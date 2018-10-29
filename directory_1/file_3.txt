@@ -6,7 +6,4 @@ Programmers never stop learning. New technologies come out all the time, so the 
 Pair program as much as possible. There is no faster way to learn how to code.
 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
