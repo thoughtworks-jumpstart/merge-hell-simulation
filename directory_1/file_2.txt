@@ -6,7 +6,4 @@ Programming is about using the right tool for the job. There are so many differe
 Learning to code isn’t easy. But that’s why it’s worth doing.
 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+It’s ok to make big mistakes. I once made a mistake that cost my company $10,000 dollars. In the process, I learned the most important lesson of my programming career.
