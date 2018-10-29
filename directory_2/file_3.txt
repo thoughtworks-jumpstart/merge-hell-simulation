@@ -4,7 +4,4 @@ You’re going to wake up in the morning thinking about code. And when it happen
 
 An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+Programming is about using the right tool for the job. There are so many different open source libraries, tools, and frameworks at your disposal. So you need to grow your developer toolkit and understand which tool makes sense for each problem that they encounter.
