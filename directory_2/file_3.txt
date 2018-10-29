@@ -1,7 +1,7 @@
 <directory_2/file_3.txt title>
 
-You’re going to wake up in the morning thinking about code. And when it happens, it’s really freakin’ cool.
-Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
+An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
+
 
 An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
