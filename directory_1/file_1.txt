@@ -23,7 +23,7 @@ Let go of your emotions. You’re going to see error messages on your journey to
 Programming is about using the right tool for the job. There are so many different open source libraries tools, and frameworks at your disposal. So you need to grow your developer toolkit and understand which tool makes sense for each problem that they encounter.
 =======
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
-Doloremque architecto quaerat impedit iure debitis, 
+Pair program as much as possible. There is no faster way to learn how to code.
 reprehenderit magnam magni mollitia vel nemo repellendus 
 voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
 >>>>>>> understand everything
