@@ -6,7 +6,4 @@ Cheating is completely acceptable. I use Google to solve most of my problems, an
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
