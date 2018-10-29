@@ -6,6 +6,10 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 - Explain exactly what is actually happening.
 - Explain why you think it should be working differently.
 - When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
+You learn by doing. The only way to get better at programming is to actually program. Don’t let an analysis paralysis prevent you from ever starting.
+Doloremque architecto quaerat impedit iure debitis, 
+reprehenderit magnam magni mollitia vel nemo repellendus 
+voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
 
 Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
 
