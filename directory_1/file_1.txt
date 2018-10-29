@@ -41,4 +41,9 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 - Explain exactly what is actually happening.
 - Explain why you think it should be working differently.
 - When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
+<<<<<<< HEAD
 >>>>>>> ask for help
+=======
+
+You don’t need to be a math genius. If you’re not a “math person,” that doesn’t mean that you can’t be a programmer.
+>>>>>>> math genius
