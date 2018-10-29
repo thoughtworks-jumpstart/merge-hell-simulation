@@ -1,6 +1,9 @@
 <directory_1/file_3.txt title>
 
 
+It’s ok to make big mistakes. I once made a mistake that cost my company $10,000 dollars. In the process, I learned the most important lesson of my programming career.
+
+An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
 
 You’re never going to feel like you’re ready to program full time. Imposter syndrome is real. Try to remember that it’s normal to not know everything. The most important thing is understanding that you can figure out the stuff that you don’t know.
 
