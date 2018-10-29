@@ -2,6 +2,7 @@
 
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+It doesn’t take 10,000 hours to be good enough to land a job. In reality, you need to be good enough to know how to self correct and get back on track when problems arise. This takes far less time than 10,000 hours.
 
 
 Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
