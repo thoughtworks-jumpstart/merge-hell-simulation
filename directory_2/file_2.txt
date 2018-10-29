@@ -1,6 +1,10 @@
 <directory_2/file_2.txt title>
 
+<<<<<<< HEAD
 There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
+=======
+You’re never going to feel like you’re ready to program full time. Imposter syndrome is real. Try to remember that it’s normal to not know everything. The most important thing is understanding that you can figure out the stuff that you don’t know.
+>>>>>>> program full time
 
 Changing bad code is part of the process. I used to think that every piece of code I wrote needed to be perfect. But making improvements to your code is normal. You’re not writing a book that can’t be changed once it’s published.
 
