@@ -1,9 +1,12 @@
 <directory_1/file_1.txt title>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+There’s a right way to ask for help. Everybody needs to ask for help at some point. And when you do, make sure that you do these 4 things:
+- Overcommunicate details that you see.
+- Explain exactly what you think should be happening.
+- Explain exactly what is actually happening.
+- Explain why you think it should be working differently.
+- When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
+
 
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
 
