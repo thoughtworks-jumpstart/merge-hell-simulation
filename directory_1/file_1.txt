@@ -7,7 +7,7 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 - Explain why you think it should be working differently.
 - When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
 You learn by doing. The only way to get better at programming is to actually program. Don’t let an analysis paralysis prevent you from ever starting.
-Doloremque architecto quaerat impedit iure debitis, 
+Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
 reprehenderit magnam magni mollitia vel nemo repellendus 
 voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
 
