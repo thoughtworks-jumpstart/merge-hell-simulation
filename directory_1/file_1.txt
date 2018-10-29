@@ -9,7 +9,7 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 You learn by doing. The only way to get better at programming is to actually program. Don’t let an analysis paralysis prevent you from ever starting.
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
 Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+Letting problems pile up without checking is a poor strategy. I used to make endless changes to my code and expect it to work right away. The problem with this approach is that it stacks one problem on top of another, and it becomes difficult to figure what went wrong.
 
 Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
 
