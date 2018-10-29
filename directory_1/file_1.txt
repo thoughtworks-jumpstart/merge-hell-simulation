@@ -30,5 +30,15 @@ voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
 >>>>>>> understand everything
 =======
 Changing bad code is part of the process. I used to think that every piece of code I wrote needed to be perfect. But making improvements to your code is normal. You’re not writing a book that can’t be changed once it’s published.
+<<<<<<< HEAD
 voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
 >>>>>>> change bad code
+=======
+
+There’s a right way to ask for help. Everybody needs to ask for help at some point. And when you do, make sure that you do these 4 things:
+- Overcommunicate details that you see.
+- Explain exactly what you think should be happening.
+- Explain exactly what is actually happening.
+- Explain why you think it should be working differently.
+- When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
+>>>>>>> ask for help
