@@ -24,6 +24,11 @@ Programming is about using the right tool for the job. There are so many differe
 =======
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
 Pair program as much as possible. There is no faster way to learn how to code.
+<<<<<<< HEAD
 reprehenderit magnam magni mollitia vel nemo repellendus 
 voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
 >>>>>>> understand everything
+=======
+Changing bad code is part of the process. I used to think that every piece of code I wrote needed to be perfect. But making improvements to your code is normal. You’re not writing a book that can’t be changed once it’s published.
+voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+>>>>>>> change bad code
