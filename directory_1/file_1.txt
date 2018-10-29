@@ -12,6 +12,10 @@ Cheating is completely acceptable. I use Google to solve most of my problems, an
 Letting problems pile up without checking is a poor strategy. I used to make endless changes to my code and expect it to work right away. The problem with this approach is that it stacks one problem on top of another, and it becomes difficult to figure what went wrong.
 
 Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
+Learning by yourself is really tough. Talking about code and collaborating with other aspiring developers is a better way to learn for most people.
+Doloremque architecto quaerat impedit iure debitis, 
+reprehenderit magnam magni mollitia vel nemo repellendus 
+voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
 
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
 
