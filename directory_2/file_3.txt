@@ -1,6 +1,10 @@
 <directory_2/file_3.txt title>
 
+<<<<<<< HEAD
 You’re going to wake up in the morning thinking about code. And when it happens, it’s really freakin’ cool.
+=======
+Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
+>>>>>>> accept cheating
 
 An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
 
