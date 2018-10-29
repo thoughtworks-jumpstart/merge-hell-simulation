@@ -10,3 +10,4 @@ You’re never going to feel like you’re ready to program full time. Imposter 
 Programming is about using the right tool for the job. There are so many different open source libraries, tools, and frameworks at your disposal. So you need to grow your developer toolkit and understand which tool makes sense for each problem that they encounter.
 
 Learning to code isn’t easy. But that’s why it’s worth doing.
+Make the computer think like a human. Too many people have the impression that you need to think like a computer. It’s actually the opposite.
