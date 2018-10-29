@@ -1,9 +1,6 @@
 <directory_2/file_2.txt title>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit
 Doloremque architecto quaerat impedit iure debitis, 
