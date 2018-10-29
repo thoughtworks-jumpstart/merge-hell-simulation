@@ -10,7 +10,4 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+Programmers never stop learning. New technologies come out all the time, so the programmers that succeed are the ones who continue to learn and develop their craft on an ongoing basis.
