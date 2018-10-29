@@ -3,10 +3,8 @@
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+
+Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit
 Doloremque architecto quaerat impedit iure debitis, 
