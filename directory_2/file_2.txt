@@ -7,4 +7,16 @@ Changing bad code is part of the process. I used to think that every piece of co
 Learning to code isn’t easy. But that’s why it’s worth doing.
 
 Meet-ups are incredibly valuable. In the beginning, it was pretty intimidating to get myself to the point where I felt comfortable attending these. But once I did, I realized that there were a ton of developers just like me.
+<<<<<<< HEAD
 You don’t need to be a math genius. If you’re not a “math person,” that doesn’t mean that you can’t be a programmer.
+=======
+<<<<<<< HEAD
+=======
+
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit
+Doloremque architecto quaerat impedit iure debitis, 
+reprehenderit magnam magni mollitia vel nemo repellendus 
+voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+>>>>>>> changed file 2 line 2
+>>>>>>> changed file 2 line 2
