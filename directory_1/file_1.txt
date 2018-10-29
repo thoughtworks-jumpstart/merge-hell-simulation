@@ -13,7 +13,7 @@ Letting problems pile up without checking is a poor strategy. I used to make end
 
 Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
 Learning by yourself is really tough. Talking about code and collaborating with other aspiring developers is a better way to learn for most people.
-Doloremque architecto quaerat impedit iure debitis, 
+Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
 reprehenderit magnam magni mollitia vel nemo repellendus 
 voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
 
