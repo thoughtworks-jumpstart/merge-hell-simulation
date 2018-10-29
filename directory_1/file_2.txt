@@ -3,12 +3,10 @@
 Programming is about using the right tool for the job. There are so many different open source libraries, tools, and frameworks at your disposal. So you need to grow your developer toolkit and understand which tool makes sense for each problem that they encounter.
 Programmers never stop learning. New technologies come out all the time, so the programmers that succeed are the ones who continue to learn and develop their craft on an ongoing basis.
 
-<<<<<<< HEAD
-=======
 Programming is about using the right tool for the job. There are so many different open source libraries, tools, and frameworks at your disposal. So you need to grow your developer toolkit and understand which tool makes sense for each problem that they encounter.
->>>>>>> right tool
 
 Learning to code isn’t easy. But that’s why it’s worth doing.
 
 
 It’s ok to make big mistakes. I once made a mistake that cost my company $10,000 dollars. In the process, I learned the most important lesson of my programming career.
+Learning to code isn’t easy. But that’s why it’s worth doing.
