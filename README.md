@@ -3,7 +3,7 @@
 In this exercise, we are all working in groups of 3, one 1 single repository on GitHub. Our job is to replace all the lorem ipsum paragraphs with quotes listed in `./source.txt` We will pair up and make changes according to the instructions below, and experience merge hell for ourselves!
 
 ### Getting started
-1. One membe of the group will fork this repo
+1. One member of the group will fork this repo
 1. The other members request to be added as collaborator on the project
 
 ### Part 1: merge hell across team members
