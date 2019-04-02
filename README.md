@@ -1,15 +1,17 @@
 # Merge Hell Simulation
 
-In this exercise, we are all working as a team, one 1 single repository on GitHub. Our job is to replace all the lorem ipsum paragraphs with quotes listed in `./source.txt` We will pair up and make changes according to the instructions below, and experience merge hell for ourselves!
+In this exercise, we are all working in groups of 3, one 1 single repository on GitHub. Our job is to replace all the lorem ipsum paragraphs with quotes listed in `./source.txt` We will pair up and make changes according to the instructions below, and experience merge hell for ourselves!
 
 ### Getting started
-1. Request to be added as collaborators on a project
+1. One membe of the group will fork this repo
+1. The other members request to be added as collaborator on the project
 
 ### Part 1: merge hell across team members
 - For part 1, change only files in directory_1
 - For each paragraph in each file, replace the lorem ipsum paragraph with a quote from `./source.txt` **in random order**. **Make a commit** for each paragraph replacement.
 - Keep going until every paragraph in directory_1 is replaced, and push!
 - First person to push wins ;)
+- The other members need to do `git pull --rebase` resolve the merge conflict, git add and git rebase --continue 
 
 ### Part 2: merge hell across branches
 1. For part 2, change only files in directory_2
@@ -33,4 +35,7 @@ Life shrinks or expands in proportion to one's courage. –Anais Nin
   - Add and commit
 
 - Ok, phew. you've managed to pivot our business in time by making the necessary changes.
-- Now, let's get back to programming quotes. Merge your features on `file_1_feature` branch onto `master` branch and push your changes. Let's show our team our awesome new features!
+- Now, let's get back to programming quotes. 
+- Merge your features on `file_1_feature` branch onto `master` branch and push your changes. 
+
+Let's show our team our awesome new features!
