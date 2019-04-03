@@ -18,7 +18,7 @@ In this exercise, we are all working in groups of 3, one 1 single repository on 
 
 ### Part 2: merge hell across branches
 1. For part 2, change only files in directory_2
-2. To start, create a branch: `git checkout -b file_1_feature`
+2. To start, create a local branch: `git checkout -b file_1_feature`
 3. For each paragraph in each file, replace the lorem ipsum paragraph with a quote from `./source.txt`. **Make a commit** for each paragraph replacement.
 
 ### Part 3
@@ -39,6 +39,6 @@ Life shrinks or expands in proportion to one's courage. –Anais Nin
 
 - Ok, phew. you've managed to pivot our business in time by making the necessary changes.
 - Now, let's get back to programming quotes. 
-- Merge your features on `file_1_feature` branch onto `master` branch and push your changes. 
+- Ensure you are on master branch. Do `git merge file_1_feature` to merge your features on `file_1_feature` branch onto `master` branch and push your changes. 
 
 Let's show our team our awesome new features!
