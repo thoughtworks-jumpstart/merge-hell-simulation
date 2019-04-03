@@ -9,9 +9,12 @@ In this exercise, we are all working in groups of 3, one 1 single repository on 
 ### Part 1: merge hell across team members
 - For part 1, change only files in directory_1
 - For each paragraph in each file, replace the lorem ipsum paragraph with a quote from `./source.txt` **in random order**. **Make a commit** for each paragraph replacement.
-- Keep going until every paragraph in directory_1 is replaced, and push!
-- First person to push wins ;)
-- The other members need to do `git pull --rebase` resolve the merge conflict, git add and git rebase --continue 
+- Keep going until every paragraph in the file_1.txt is replaced
+- Do the same for file2.txt
+- Do the same for file3.txt
+- Finally do a git push
+- First person to push wins! ;)
+- The other members need to do `git pull --rebase` resolve the merge conflict, `git add` and `git rebase --continue` 
 
 ### Part 2: merge hell across branches
 1. For part 2, change only files in directory_2
