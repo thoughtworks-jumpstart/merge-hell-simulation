@@ -52,10 +52,5 @@ Life shrinks or expands in proportion to one's courage. –Anais Nin
 ```
 
 - Add and commit
-
+- `git push`
 - Ok, phew. you've managed to pivot our business in time by making the necessary change.
-- Ensure you are on master branch. Do `git merge file_1_feature` to merge your features on `file_1_feature` branch onto `master` branch and push your changes.
-- You will get a merge conflict, fix the merge conflict and do a `git add .`. Next `git commit` to complete the merge
-- Finally git push
-
-Let's show our team our awesome new features!
