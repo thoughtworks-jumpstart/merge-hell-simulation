@@ -21,17 +21,17 @@ In this exercise, we are all working in groups of 3, one 1 single repository on 
 ### Part 2: merge hell across branches
 
 1. For part 2, change only files in directory_2
-1. To start, create a local branch: `git checkout -b feature/team-1`
+1. To start, create a local branch: `git checkout -b feature/<your-name>`
 1. For each paragraph in each file, replace the lorem ipsum paragraph with a quote from `./source.txt`. **Make a commit** for each paragraph replacement.
 1. After you have made all the commits on your feature branch, do `git checkout master`
-1. `git merge feature/team-1` to merge your feature branch into your local master branch.
+1. `git merge feature/<your-name>` to merge your feature branch into your local master branch.
 1. Push to remote master branch. `git push`.
 
 If someone else has already pushed to the remote master branch, you will not be able to proceed with the git push. In this case:
 
 1. Do a `git pull`.
 1. Fix the merge conflicts and `git add .`
-1. Using this method, we will create a merge commit. `git commit -m "..."` to complete the merge
+1. Using this method, we will create a merge commit. `git commit` to complete the merge
 1. Push the changes to the remote master branch `git push`
 
 ### Part 3
